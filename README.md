@@ -8,7 +8,7 @@ Provolver integration mod for CrossFire Sierra Squad. Many different haptic effe
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
 
 ## INSTALLATION
-Extract the contents of the [Provolver.zip](https://github.com/Astienth/Provolver_IntoTheRadius/releases/download/1.0/IntoTheRadius_Protube.zip) file inside your game root directory, the one containing CFSS.exe
+Extract the contents of the [Provolver.zip](https://github.com/Astienth/CrossFireSierraSquad_Provolver/releases/download/1.0/CrossFireSierraSquad_Protube.zip) file inside your game root directory, the one containing CFSS.exe
 You should have these files in the directory :
 
 <img src="https://github.com/Astienth/CrossFireSierraSquad_Provolver/assets/11942434/49fae793-3554-4440-b468-49417c1fa07a" alt="Capture2" border="0">
